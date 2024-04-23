@@ -1,0 +1,1 @@
+# deploying RAG application using AWS(AWS lambda, aws ECR), langchain, docker
