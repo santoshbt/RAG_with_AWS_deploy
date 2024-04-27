@@ -6,7 +6,7 @@ import boto3
 print("imported successfully")
 
 prompt = """
-    You are a smart assistant so please let me know what is machine learning in smartest way?
+   you are a cricket expert now just tell me, will RCB win to IPL?
 """
 
 # connect to bedrock
